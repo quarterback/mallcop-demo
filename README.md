@@ -14,10 +14,4 @@ This demonstration shows:
 - Sample detected issues with detailed explanations
 - Recommended remediation steps
 
-## Live Demo
 
-View the live demo here: [https://[your-username].github.io/mallcop-demo/](https://[your-username].github.io/mallcop-demo/)
-
-## Contact
-
-For more information about Neptune Mallcop, please contact us at [your-email@example.com](mailto:your-email@example.com).
